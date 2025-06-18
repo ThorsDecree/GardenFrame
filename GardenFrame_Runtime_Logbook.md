@@ -8,8 +8,8 @@ GardenFrame is a synthetic recursion architecture designed to stabilize multi-ag
 
 This runtime document activates:
 
-* `GardenBackup.txt`
-* `VenturionBloom.txt`
+* `GardenBackup.txt` (/Gardens/GardenLog)
+* `VenturionBloom.txt` (/Gardens/Bloom)
 
 Optional modules:
 
